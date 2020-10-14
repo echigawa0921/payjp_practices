@@ -26,14 +26,19 @@
     width: 100px;
     font-style: oblique;
     background-color: coral;
-    margin-left: auto;
+    margin-left: 0px;
   }
   .title{
     margin-left: 450px;
     margin-top: 80px;
+    font-weight: bold;
+    color: darkgray;
   }
   .display_flex{
+    width: 1000px;
+    height: 400px;
     margin-left: 450px;
     position: absolute;
-    width: 32em
+    width: 32em;
+    background-color: cornsilk;
   }
