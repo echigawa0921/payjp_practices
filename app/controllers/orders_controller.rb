@@ -14,6 +14,9 @@ class OrdersController < ApplicationController
         render 'index'
       end
     end
+
+    def new
+    end
   
     private
   
